@@ -1,0 +1,1 @@
+Practicar las operaciones básicas de las bases de datos: leer, escribir, modificar y eliminar registros de una tabla, como las implementarias en tu proyecto.
